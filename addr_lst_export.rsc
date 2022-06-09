@@ -1,4 +1,4 @@
-# jun/08/2022 02:48:27 by RouterOS 6.49.1
+# jun/09/2022 09:55:01 by RouterOS 6.49.1
 #
 # model = RB4011iGS+
 /ip firewall address-list
@@ -39007,3 +39007,8 @@ add address=45.61.185.160 list=bruteforcers
 add address=109.173.206.74 list=bruteforcers
 add address=178.128.255.226 list=bruteforcers
 add address=106.75.223.168 list=bruteforcers
+add address=146.190.239.5 list=bruteforcers
+add address=95.255.61.210 list=bruteforcers
+add address=47.93.11.177 list=bruteforcers
+add address=64.225.1.215 list=bruteforcers
+add address=178.128.248.18 list=bruteforcers
